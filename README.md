@@ -46,4 +46,11 @@ The motivation behind DocPro stems from the common issue of patients having to e
 4. Run the server using `npm start` in the server directory.
 5. Run the client using `npm start` in the client directory.
 
-Feel free to explore and contribute to making DocPro an even more efficient and user-friendly solution for doctor appointment scheduling.
+Feel free to explore and contribute to making DocPro an even more efficient and user-friendly solution for doctor appointment scheduling
+
+Home Page
+![image](https://github.com/sourajsarkar/project1/assets/98710029/6950b1cf-fc7b-4b67-8770-082fdb56a906)
+
+User can also apply for doctor
+![image](https://github.com/sourajsarkar/project1/assets/98710029/82d9c9a9-8d2f-47ff-9b4f-d56e540d5cd1)
+
