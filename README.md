@@ -6,6 +6,9 @@ DocPro is a web application built using the MERN stack (MongoDB, Express.js, Rea
 
 DocPro aims to streamline the process of doctor appointment scheduling for clinics and hospitals. The application provides a user-friendly platform where individuals can register, log in, and seamlessly schedule appointments with preferred doctors based on their specialization. The authentication process is managed using JWT tokens to ensure user security.
 
+Hosted link
+https://docpro.onrender.com/
+
 ## Key Features
 
 - **User Authentication**: Users can register and log in securely with JWT token authentication.
